@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GreenScene.unity
+    guid: 3174a8607e7a950459f2b624a8efcf50
+  - enabled: 1
+    path: Assets/Scenes/BlueScene.unity
+    guid: 2342293580d60d54abde901382f52bf7
+  - enabled: 1
+    path: Assets/Scenes/RedScene.unity
+    guid: e8d5c3387ae98df438cfb07006df95a8
+  m_configObjects: {}
